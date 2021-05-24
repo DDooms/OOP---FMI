@@ -1,0 +1,4 @@
+﻿  zadacha2.cpp
+C:\Users\Beray\source\repos\zadacha2\zadacha2\zadacha2.cpp(18,5): error C2084: function 'int main(void)' already has a body
+C:\Users\Beray\source\repos\zadacha2\zadacha2\zadacha2.cpp(5): message : see previous definition of 'main'
+C:\Users\Beray\source\repos\zadacha2\zadacha2\zadacha2.cpp(74,17): warning C4305: '+=': truncation from 'double' to 'float'

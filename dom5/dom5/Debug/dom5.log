@@ -1,0 +1,18 @@
+﻿  Buyer.cpp
+C:\Users\Beray\source\repos\dom5\dom5\AmericanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\BulgarianCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\GermanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\Buyer.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coin.cpp
+C:\Users\Beray\source\repos\dom5\dom5\Coin.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Product.cpp
+C:\Users\Beray\source\repos\dom5\dom5\AmericanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\BulgarianCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\GermanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\Product.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\Beray\source\repos\dom5\dom5\AmericanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\BulgarianCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\dom5\dom5\GermanCoin.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  dom5.vcxproj -> C:\Users\Beray\source\repos\dom5\Debug\dom5.exe

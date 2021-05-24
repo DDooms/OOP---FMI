@@ -1,0 +1,7 @@
+﻿  Player.cpp
+C:\Users\Beray\source\repos\prkDom3\prkDom3\Deck.h(74,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\Beray\source\repos\prkDom3\prkDom3\Deck.h(74,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beray\source\repos\prkDom3\prkDom3\Source.cpp(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  prkDom3.vcxproj -> C:\Users\Beray\source\repos\prkDom3\Debug\prkDom3.exe
